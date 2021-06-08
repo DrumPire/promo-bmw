@@ -5,7 +5,6 @@ import { tabs } from './tabs.js';
 import { burger } from './burger.js';
 import { sendForm } from './sendForm.js';
 
-
 accordion();
 smoothScroll();
 tabs();
